@@ -1,0 +1,117 @@
+body {
+    font-family: 'Mingzat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.first-section {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;
+}
+
+.f-s {
+    color: orange;
+}
+
+.f-d {
+    width: 50%;
+    margin-left: 40px;
+    padding-left: 40px;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 50px;
+
+}
+
+.first-pic {
+    /* width: 100%; */
+
+}
+
+.f-a {
+    text-decoration: none;
+    background-image: linear-gradient(yellow, tomato);
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    font-size: 20px;
+    /* margin-top: 50px; */
+}
+
+.mar {
+    margin-bottom: 50px;
+}
+
+.flex-apply {
+    display: flex;
+    /* background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    padding: 50px;
+}
+
+.f-d2 {
+    width: 35%;
+    margin: auto;
+    padding: 40px 40px;
+    box-shadow: 10px 10px 40px lightgray;
+    border-radius: 35px;
+
+}
+
+.is {
+    width: 100%;
+}
+
+.recipies-txt {
+    text-align: center;
+}
+
+.last {
+    display: flex;
+    box-shadow: 10px 10px 40px lightgray;
+    width: 70%;
+    border-radius: 20px;
+    margin: 40px auto;
+    padding: 40px;
+}
+
+.last-d {
+    width: 33.3%;
+    text-align: center;
+    line-height: 0;
+}
+
+.last-p {
+    font-size: 12px;
+    text-align: center
+}
+
+/* footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    margin: auto;
+} */
+footer {
+
+    /* text-align: center; */
+    background-color: black;
+    height: 200px;
+}
+
+.footer-d {
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+
+.heal {
+    color: gray;
+}
