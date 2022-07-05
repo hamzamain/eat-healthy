@@ -4,6 +4,39 @@ body {
     margin: 0;
 }
 
+/* #nav-bar {
+    display: inline;
+    padding: 20px;
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    padding 0 10px;
+} */
+.hello {
+    padding: 20px;
+    background-color: rgb(253, 234, 236);
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+#about-me {
+    color: gray;
+}
+
 .first-section {
     display: flex;
     background-image: url(images/shapes/Frame\ 58.jpg);
@@ -38,6 +71,7 @@ h1 {
 }
 
 .f-a {
+    font-weight: 500;
     text-decoration: none;
     background-image: linear-gradient(yellow, tomato);
     padding: 10px 20px;
