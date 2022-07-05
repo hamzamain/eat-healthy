@@ -30,7 +30,11 @@ h1 {
 
 .first-pic {
     /* width: 100%; */
+    display: block;
+}
 
+.pp {
+    width: 70%;
 }
 
 .f-a {
