@@ -148,8 +148,17 @@ footer {
     text-align: center;
     color: white;
     padding-top: 5px;
+
+}
+
+.footer {
+    font-size: 13px;
 }
 
 .heal {
     color: gray;
 }
+
+/* section {
+    background-color: rgb(253, 234, 236);
+} */
